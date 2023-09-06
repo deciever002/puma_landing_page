@@ -33,8 +33,11 @@ Live at: https://puma-landing-page.vercel.app/
    - [Adding Features](#adding-features)
 
 5. [Contributing](#contributing)
+
    - [Reporting Issues](#reporting-issues)
    - [Pull Requests](#pull-requests)
+
+6. [Special Thanks](#special-thanks)
 
 ## Getting Started
 
@@ -135,6 +138,19 @@ If you encounter any issues or have suggestions for improvements, please [create
 ### Pull Requests
 
 We welcome contributions! If you'd like to contribute to the project, please fork the repository, make your changes, and submit a pull request. Be sure to follow the contribution guidelines outlined in the repository.
+
+## Special Thanks
+
+We would like to extend our heartfelt gratitude to Adrian, the founder of [JS Mastery](https://www.jsmastery.pro/), for their invaluable contributions and support throughout the development of this project. Adrian's expertise in JavaScript and web development has been instrumental in making this project a success.
+
+Adrian, your guidance and resources have greatly influenced our work, and we are immensely thankful for your dedication to the JavaScript community.
+
+![Adrian's Profile](https://github.com/adrianhajdin)
+
+- Website: [JS Mastery](https://www.jsmastery.pro/)
+- Twitter: [@AdrianJSMastery](https://twitter.com/jsmasterypro?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+Thank you, Adrian, for being a true inspiration to the JavaScript community!
 
 --
 
